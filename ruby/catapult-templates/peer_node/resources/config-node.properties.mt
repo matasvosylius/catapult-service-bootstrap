@@ -20,8 +20,8 @@ shortLivedCacheBlockDuration = 100m
 shortLivedCachePruneInterval = 90s
 shortLivedCacheMaxSize = 200'000
 
-minFeeMultiplier = 100
-transactionSelectionStrategy = maximize-fee
+minFeeMultiplier = 0
+transactionSelectionStrategy = oldest
 unconfirmedTransactionsCacheMaxResponseSize = 20MB
 unconfirmedTransactionsCacheMaxSize = 50'000
 
