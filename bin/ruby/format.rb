@@ -57,7 +57,7 @@ module Helper
     parsed_form
   end
 
-  NETWORK_NAME = 'public' # otehr viable alternatives are (mijin-test; it is what is set when generate addresses
+  NETWORK_NAME = 'mijin-test' # otehr viable alternatives are (mijin-test; it is what is set when generate addresses
   def self.add_to_element!(element, state, line)
     value = 
       case state
