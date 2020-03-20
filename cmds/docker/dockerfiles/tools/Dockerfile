@@ -1,1 +1,0 @@
-FROM techbureau/catapult-tools:gcc-sha3-0.9.2.1
